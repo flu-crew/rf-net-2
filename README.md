@@ -45,7 +45,7 @@ For example, to find the proper number of reticulations for the IAV-delta1A-HANA
 1. ``python3 plot_embedding_costs.py delta1A-network.newick`` then plots the embedding cost dynamic:
 
 <center>
-<img src="embedding-cost-plot.png" width="300">
+<img src="embedding-cost-plot.png" width="400px">
 </center>
 
 As the embedding cost only decreases by one after the first two reticulations, the plot suggests that 2 is the optimal number of reticulations, whereas a larger number of reticulations is likely to cause error-fitting.
