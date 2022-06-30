@@ -1,6 +1,8 @@
 #### OUP Bioinformatics Supplemental
 A supplemental reassortment network for the associated Bioinformatics manuscript is located in the `Bioinformatics_Supplemental` folder
 
+Markin, A., Wagle, S., Anderson, T.K. and Eulenstein, O., *2022. RF-Net 2: fast inference of virus reassortment and hybridization networks*. Bioinformatics, 38(8), pp.2144-2152.
+
 ## RF-Net 2
 The RF-Net executables, supplemental scripts, and a test dataset are located in `RF-Net-2.zip`
 
